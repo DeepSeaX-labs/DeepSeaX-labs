@@ -65,7 +65,6 @@ Bug Bounty Hunting          24/7 Execution               Backup & Recovery
 
 | Platform | Focus | Ecosystem |
 |----------|-------|-----------|
-| **Immunefi** | Smart contract vulnerabilities, DeFi exploits | Ethereum, BSC, Polygon |
 | **Code4rena** | Competitive audit contests | Multi-chain |
 | **Sherlock** | Protocol security contests | Ethereum, L2s |
 | **HackerOne** | Web application security | Web2 |
