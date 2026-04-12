@@ -69,6 +69,7 @@ Bug Bounty Hunting          24/7 Execution               Backup & Recovery
 | **Sherlock** | Protocol security contests | Ethereum, L2s |
 | **HackerOne** | Web application security | Web2 |
 | **Bugcrowd** | API security, mobile | Web2 |
+| **HackenProof** | Smart contract vulnerabilities, DeFi exploits | Multi-chain |
 
 ### Methodology
 
