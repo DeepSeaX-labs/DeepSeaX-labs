@@ -29,10 +29,10 @@ Independent security researcher focused on **Web3 smart contract auditing** and 
 ```
 Offensive Security          Quant Trading                Automation & DevOps
 -------------------         ----------------------       --------------------
-Smart Contract Audit        Multi-Factor Signals         CI/CD Pipelines
-DeFi Protocol Analysis      Regime-Adaptive Models       Infrastructure as Code
-Web App Penetration Test    Risk-Controlled Execution    Monitoring & Alerting
-Bug Bounty Hunting          24/7 Automated Vaults        Backup & Recovery
+Smart Contract Audit        Automated Vaults             CI/CD Pipelines
+DeFi Protocol Analysis      Proprietary Signals          Infrastructure as Code
+Web App Penetration Test    Risk Management              Monitoring & Alerting
+Bug Bounty Hunting          24/7 Execution               Backup & Recovery
 ```
 
 ### Tech Stack
@@ -81,29 +81,15 @@ Bug Bounty Hunting          24/7 Automated Vaults        Backup & Recovery
 6. LEARN      After-action review -> update detection patterns
 ```
 
-### Hydrologic Vault — Quantitative Trading
+### Hydrologic Vault — Automated Trading
 
-<table>
-  <tr>
-    <td><strong>Platform</strong></td>
-    <td><a href="https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88">Hyperliquid</a></td>
-  </tr>
-  <tr>
-    <td><strong>Strategy</strong></td>
-    <td>Quantitative multi-factor signal engine. Aggregates institutional flow across uncorrelated sources. Dynamic directional allocation, adaptive to regime shifts.</td>
-  </tr>
-  <tr>
-    <td><strong>Architecture</strong></td>
-    <td>Micro-position with strict risk controls. Automated 24/7.</td>
-  </tr>
-</table>
+<a href="https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88">
+  <img src="https://img.shields.io/badge/Hyperliquid-Deposit_Now-00C2FF?style=for-the-badge" alt="Deposit">
+</a>
 
-```
-Signal Sources ──► Multi-Factor Engine ──► Position Sizing ──► Execution
-  Institutional       Regime Detection       Risk Controls      Hyperliquid
-  Flow Data           Correlation Analysis   Max Drawdown       L1 Perps
-  On-Chain Metrics    Volatility Regime      Position Limits    24/7
-```
+Fully automated quantitative vault running 24/7 on Hyperliquid L1 perpetuals. Strict risk controls and adaptive position management.
+
+> **Want exposure without building your own system?** Deposit into the vault and let the engine work for you.
 
 ### Featured Projects
 
