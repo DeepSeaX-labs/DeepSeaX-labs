@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://theinsider-x.com"><img src="https://img.shields.io/badge/Blog-theinsider--x.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog"></a>
+  <a href="https://x.com/TheInsider_x"><img src="https://img.shields.io/badge/X-@TheInsider__x-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://hackerone.com/deepseax"><img src="https://img.shields.io/badge/HackerOne-deepseax-494649?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne"></a>
   <a href="https://bugcrowd.com/deepseax"><img src="https://img.shields.io/badge/Bugcrowd-deepseax-F26822?style=flat-square&logo=bugcrowd&logoColor=white" alt="Bugcrowd"></a>
   <a href="https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88"><img src="https://img.shields.io/badge/Hyperliquid-Hydrologic_Vault-00C2FF?style=flat-square" alt="Hyperliquid Vault"></a>
