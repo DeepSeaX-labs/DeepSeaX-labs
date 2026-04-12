@@ -1,13 +1,14 @@
 <h1 align="center">DeepSeaX</h1>
 
 <p align="center">
-  <strong>Security Researcher &bull; Bug Bounty Hunter &bull; DevOps Engineer</strong>
+  <strong>Security Researcher &bull; Bug Bounty Hunter &bull; Quant Trader &bull; DevOps Engineer</strong>
 </p>
 
 <p align="center">
   <a href="https://theinsider-x.com"><img src="https://img.shields.io/badge/Blog-theinsider--x.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog"></a>
   <a href="https://hackerone.com/deepseax"><img src="https://img.shields.io/badge/HackerOne-deepseax-494649?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne"></a>
   <a href="https://bugcrowd.com/deepseax"><img src="https://img.shields.io/badge/Bugcrowd-deepseax-F26822?style=flat-square&logo=bugcrowd&logoColor=white" alt="Bugcrowd"></a>
+  <a href="https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88"><img src="https://img.shields.io/badge/Hyperliquid-Hydrologic_Vault-00C2FF?style=flat-square" alt="Hyperliquid Vault"></a>
   <img src="https://img.shields.io/badge/Location-Thailand-red?style=flat-square" alt="Location">
 </p>
 
@@ -20,17 +21,18 @@ Independent security researcher focused on **Web3 smart contract auditing** and 
 - Audit smart contracts on **Ethereum, Sui Move, Solana** ecosystems
 - Hunt bugs on **Immunefi, HackerOne, Bugcrowd, Code4rena, Sherlock**
 - Build automated security tools powered by AI
+- Run [**Hydrologic Vault**](https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88) on Hyperliquid — quantitative trading with multi-factor signals
 - Write about cybersecurity threats at [theinsider-x.com](https://theinsider-x.com)
 
 ### What I Do
 
 ```
-Offensive Security          Defensive Engineering        Automation & DevOps
+Offensive Security          Quant Trading                Automation & DevOps
 -------------------         ----------------------       --------------------
-Smart Contract Audit        Threat Detection (VQL)       CI/CD Pipelines
-DeFi Protocol Analysis      SIEM & Log Analysis          Infrastructure as Code
-Web App Penetration Test    Incident Response            Monitoring & Alerting
-Bug Bounty Hunting          Malware Analysis             Backup & Recovery
+Smart Contract Audit        Multi-Factor Signals         CI/CD Pipelines
+DeFi Protocol Analysis      Regime-Adaptive Models       Infrastructure as Code
+Web App Penetration Test    Risk-Controlled Execution    Monitoring & Alerting
+Bug Bounty Hunting          24/7 Automated Vaults        Backup & Recovery
 ```
 
 ### Tech Stack
@@ -79,10 +81,35 @@ Bug Bounty Hunting          Malware Analysis             Backup & Recovery
 6. LEARN      After-action review -> update detection patterns
 ```
 
+### Hydrologic Vault — Quantitative Trading
+
+<table>
+  <tr>
+    <td><strong>Platform</strong></td>
+    <td><a href="https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88">Hyperliquid</a></td>
+  </tr>
+  <tr>
+    <td><strong>Strategy</strong></td>
+    <td>Quantitative multi-factor signal engine. Aggregates institutional flow across uncorrelated sources. Dynamic directional allocation, adaptive to regime shifts.</td>
+  </tr>
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>Micro-position with strict risk controls. Automated 24/7.</td>
+  </tr>
+</table>
+
+```
+Signal Sources ──► Multi-Factor Engine ──► Position Sizing ──► Execution
+  Institutional       Regime Detection       Risk Controls      Hyperliquid
+  Flow Data           Correlation Analysis   Max Drawdown       L1 Perps
+  On-Chain Metrics    Volatility Regime      Position Limits    24/7
+```
+
 ### Featured Projects
 
 | Project | Description |
 |---------|-------------|
+| [**Hydrologic Vault**](https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88) | Quantitative multi-factor trading vault on Hyperliquid |
 | [**vps-gdrive-vault**](https://github.com/Deepsea1111/vps-gdrive-vault) | Production-grade VPS backup to Google Drive with rate limit prevention |
 | [**theinsider-x.com**](https://theinsider-x.com) | Cybersecurity threat intelligence blog (46+ articles) |
 
