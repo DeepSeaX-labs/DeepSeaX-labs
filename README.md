@@ -97,18 +97,18 @@ Fully automated quantitative vault running 24/7 on Hyperliquid L1 perpetuals. St
 | Project | Description |
 |---------|-------------|
 | [**Hydrologic Vault**](https://app.hyperliquid.xyz/vaults/0x7b55c347ad6cded9f948dad19c208d9afecbeb88) | Quantitative multi-factor trading vault on Hyperliquid |
-| [**vps-gdrive-vault**](https://github.com/Deepsea1111/vps-gdrive-vault) | Production-grade VPS backup to Google Drive with rate limit prevention |
+| [**vps-gdrive-vault**](https://github.com/DeepSeaX-labs/vps-gdrive-vault) | Production-grade VPS backup to Google Drive with rate limit prevention |
 | [**theinsider-x.com**](https://theinsider-x.com) | Cybersecurity threat intelligence blog (46+ articles) |
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepsea1111&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsea1111&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepSeaX-labs&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepSeaX-labs&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepsea1111&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepSeaX-labs&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
